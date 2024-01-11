@@ -1,0 +1,7 @@
+a=c(0,1,2,3,4,5,6,7,8,9)
+addAll=sum(a)
+vectorLength=length(a)
+vectorRange=range(a)
+vectorCumSum=cumsum(a)
+vectorFindIndex=which(a==4)
+vectorProduct=prod(a)

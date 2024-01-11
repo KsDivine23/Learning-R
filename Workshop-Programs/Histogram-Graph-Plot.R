@@ -1,0 +1,6 @@
+x=seq(150,175,5)
+f=c(6,11,14,9,3,2)
+y=rep(x,f)
+hist(y)
+t=seq(147.5,177.5,5)
+hist(y,breaks=t)
